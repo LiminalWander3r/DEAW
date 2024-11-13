@@ -1,5 +1,4 @@
-Este repositorio se utilizará para realizar la primera práctica de Despliegue
-de Aplicaciones Web.
+    NOMBRE                 GITHUB
+Rafael Luque 	                        [enlace a github 1](https://github.com/rltDespliegue/DEAW)
 
-El autor es Miguel Trigueros Zamudio, estudiante de DAW.
-
+Alejandra Carrasquilla   	            [enlace a github 2](https://github.com/debian-alejandra/DEAW)
